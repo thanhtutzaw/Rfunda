@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rfunda/static/css/main.77f3737c.chunk.css",
+    "main.js": "/Rfunda/static/js/main.3c220d85.chunk.js",
+    "main.js.map": "/Rfunda/static/js/main.3c220d85.chunk.js.map",
+    "runtime-main.js": "/Rfunda/static/js/runtime-main.6772ae15.js",
+    "runtime-main.js.map": "/Rfunda/static/js/runtime-main.6772ae15.js.map",
+    "static/js/2.2b479a9a.chunk.js": "/Rfunda/static/js/2.2b479a9a.chunk.js",
+    "static/js/2.2b479a9a.chunk.js.map": "/Rfunda/static/js/2.2b479a9a.chunk.js.map",
+    "static/js/3.9cd5d50d.chunk.js": "/Rfunda/static/js/3.9cd5d50d.chunk.js",
+    "static/js/3.9cd5d50d.chunk.js.map": "/Rfunda/static/js/3.9cd5d50d.chunk.js.map",
+    "index.html": "/Rfunda/index.html",
+    "static/css/main.77f3737c.chunk.css.map": "/Rfunda/static/css/main.77f3737c.chunk.css.map",
+    "static/js/2.2b479a9a.chunk.js.LICENSE.txt": "/Rfunda/static/js/2.2b479a9a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Rfunda/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6772ae15.js",
+    "static/js/2.2b479a9a.chunk.js",
+    "static/css/main.77f3737c.chunk.css",
+    "static/js/main.3c220d85.chunk.js"
+  ]
+}
